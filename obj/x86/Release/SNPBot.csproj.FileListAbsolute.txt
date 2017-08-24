@@ -1,0 +1,34 @@
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\UVFormSeearch.exe.config
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\UVFormSeearch.exe
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\UVFormSeearch.pdb
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\HtmlAgilityPack.dll
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\HtmlAgilityPack.pdb
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\HtmlAgilityPack.xml
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Release\Interop.SHDocVw.dll
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\Interop.SHDocVw.dll
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.csproj.ResolveComReference.cache
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.csproj.GenerateResource.Cache
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\UVFormSeearch.exe
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\UVFormSeearch.pdb
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.Summary.resources
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.UVSearch.resources
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.Properties.Resources.resources
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.csprojResolveAssemblyReference.cache
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.SelectTranscript.resources
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\bin\Release\UVFormSeearch.exe.config
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\Interop.SHDocVw.dll
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.csproj.ResolveComReference.cache
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\UVFormSeearch.exe
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\UVFormSeearch.pdb
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\bin\Release\UVFormSeearch.exe
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\bin\Release\UVFormSeearch.pdb
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\bin\Release\HtmlAgilityPack.pdb
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\bin\Release\HtmlAgilityPack.xml
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\bin\Release\Interop.SHDocVw.dll
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.csprojResolveAssemblyReference.cache
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.SelectTranscript.resources
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.UVSearch.resources
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.Properties.Resources.resources
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.csproj.GenerateResource.Cache
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.Go_Manual.resources
+N:\GEN\Shared\Sheffield Diagnostic Genetics Service\Bioinformatics\SNPBot\Source files\UVFormSeearch\UVFormSeearch\obj\x86\Release\SNPBot.PickID.resources

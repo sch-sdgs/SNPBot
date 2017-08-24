@@ -1,0 +1,14 @@
+C:\Users\genlvg\AppData\Local\Temporary Projects\UVFormSeearch\obj\x86\Debug\UVFormSeearch.Form1.resources
+C:\Users\genlvg\AppData\Local\Temporary Projects\UVFormSeearch\obj\x86\Debug\UVFormSeearch.Properties.Resources.resources
+C:\Users\genlvg\AppData\Local\Temporary Projects\UVFormSeearch\obj\x86\Debug\UVFormSeearch.csproj.GenerateResource.Cache
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.csprojResolveAssemblyReference.cache
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.UVSearch.resources
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.Properties.Resources.resources
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.csproj.GenerateResource.Cache
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Debug\UVFormSeearch.exe
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Debug\UVFormSeearch.pdb
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.exe
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.pdb
+C:\VSProjects\UVFormSeearch\UVFormSeearch\bin\Debug\UVFormSeearch.exe.config
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\Interop.SHDocVw.dll
+C:\VSProjects\UVFormSeearch\UVFormSeearch\obj\x86\Debug\UVFormSeearch.csproj.ResolveComReference.cache
